@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Web_Tabanlı_Final.Data.Film>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CineCritic</title>
+    <link rel="stylesheet" href="~/css/Index.css">
+</head>
+<body>
+    <div class="Baslik">
+        <!--BAŞLIK-->
+        <h1>CINECRITIC</h1>
+    </div>
+
+    <!-- Başarı mesajı -->
+    @{
+        var successMessage = TempData["SuccessMessage"] as string;
+    }
+
+    @if (!string.IsNullOrEmpty(successMessage))
+    {
+        <div class="alert alert-success">
+            @successMessage
+        </div>
+    }
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            No films found.
+        </div>
+    }
+    else
+    {
+        <div class="film-container">
+            @foreach (var film in Model)
+            {
+                <div class="film-card">
+                    <a href="@Url.Action("Film", "Home", new { id = film.FilmID })">
+                        <img src="@film.PosterURL" alt="@film.FilmAd Afişi" class="film-poster">
+                        <h3>@film.FilmAd</h3>
+                        <p>Year: @film.Yil</p>
+                    </a>
+                </div>
+            }
+        </div>
+
+    }
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-container">
+            <div class="footer-left">
+                <p>&copy; 2024 CineCritic.Furkan Pehlivan</p>
+            </div>
+            <div class="footer-center">
+                <ul>
+                    <li><a href="/Film/List">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+

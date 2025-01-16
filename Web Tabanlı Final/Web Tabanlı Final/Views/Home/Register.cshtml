@@ -1,0 +1,110 @@
+﻿@model Web_Tabanlı_Final.Models.User
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-image: url('/images/CINECRITIC.png'); /* Buraya arka plan resminizin yolunu yazın */
+            background-size: cover; /* Resmin tüm ekranı kaplamasını sağlar */
+            background-repeat: no-repeat; /* Resmin tekrarlamasını engeller */
+            background-position: center; /* Resmi ortalar */
+            height: 100vh; /* Görüntünün tarayıcı yüksekliğini kaplamasını sağlar */
+            margin: 0; /* Varsayılan kenar boşluklarını kaldırır */
+            font-family: "Poppins", sans-serif;
+            display: flex; /* Flexbox kullanımı */
+            justify-content: flex-start; /* Yatayda ortala */
+            align-items: center; /* Dikeyde ortala */
+        }
+
+        .register-container {
+            display: flex;
+            flex-direction: column;
+            width: 300px;
+            height: 500px;
+            margin-left: 800px;
+            padding: 50px;
+            justify-content: center;
+            border-radius: 15px;
+            background-color: rgba(255, 255, 255, 0.5); /* Hafif beyaz arka plan rengi */
+            border-radius: 15px; /* Köşeleri yuvarla */
+            box-shadow: 0 0 41px 11px rgba(0, 0, 0, 0.1); /* İstediğiniz box-shadow */
+            backdrop-filter: blur(10px); /* Buzlu cam efekti */
+            border: 1px solid rgba(255, 255, 255, 0.3); /* Yumuşak beyaz kenar çizgisi */
+        }
+
+        .register-form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 70px;
+        }
+
+        button {
+            margin-top: 35px;
+            border-radius: 8px;
+            width: 125px;
+            align-self: center;
+            background-color: black; /* Siyah arka plan */
+            color: white; /* Beyaz metin */
+            font-size: 16px; /* Metin boyutu */
+            padding: 12px 24px; /* İç boşluk */
+            border: none; /* Kenarlık yok */
+            border-radius: 20px; /* Yuvarlatılmış köşeler */
+            cursor: pointer; /* Fareyle üzerine gelindiğinde tıklanabilir görünümü */
+        }
+
+        input {
+            font-size: 16px; /* Metin boyutu */
+            padding: 12px 24px; /* İç boşluk */
+            border: 1px solid black; /* Varsayılan border */
+            border-radius: 25px; /* Yuvarlatılmış köşeler */
+            width: 100%; /* Genişlik %100 */
+            box-sizing: border-box; /* İçerik dahil tüm alanı kapsar */
+        }
+    </style>
+</head>
+<body>
+    <div class="register-container">
+        <h2>Kayıt Ol</h2>
+        <form class="register-form" asp-controller="Register" asp-action="Register" method="post">
+            <label for="KullanıcıAdı">Kullanıcı Adı</label>
+            <input type="text" id="KullanıcıAdı" name="KullanıcıAdı" required>
+
+            <label for="Email">E-Posta</label>
+            <input type="email" id="Email" name="Email" required>
+
+            <label for="Sıfre">Parola</label>
+            <input type="password" id="Sıfre" name="Sıfre" required>
+
+            <button type="submit">Kayıt Ol</button>
+        </form>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

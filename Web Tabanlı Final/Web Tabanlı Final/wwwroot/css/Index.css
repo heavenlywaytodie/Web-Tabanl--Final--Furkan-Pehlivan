@@ -1,0 +1,147 @@
+/* FONTLAR */
+.poppins-thin {
+  font-family: "Poppins", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* Diğer Poppins font sınıfları */
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* BAŞLIK */
+.Baslik {
+  text-align: center;
+  font-size: 30px;
+  margin-left: 200px;
+}
+
+
+/* SOL NAVBAR */
+.Sol-navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Dikeyde ortalama */
+  align-items: center; /* Yatayda ortalama */
+  border-right: 1px solid black;
+  width: 200px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.Sol-navbar-ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.Sol-navbar-ul li {
+  margin-bottom: 50px; /* Yazılar arasındaki boşluk */
+}
+
+.Sol-navbar-ul li a {
+  padding: 10px 0; /* Üst ve alt boşluk */
+  word-spacing: 5px; /* Kelimeler arasındaki boşluk */
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* FILM KONTEYNIRI */
+
+.film-container {
+  display: flex;
+  justify-content: center; /* Kartları yatayda ortalar */
+  gap: 150px; /* Kartlar arasında boşluk bırakır */
+  margin: 100px; /* Üst ve alt boşluk */
+  flex-wrap: wrap; /* Kartların taşmasını önler */
+  width: 1000px;
+  margin-left: 350px; /* Sol navbar ile içerik arasındaki boşluğu ayarlar */
+}
+
+.film-card {
+  background-color: #f0f1ec; /* Kart arka plan rengi */
+  padding: 10px; /* İç boşluk */
+  text-align: center; /* Metin ortalama */
+  width: 200px; /* Kart genişliği */
+  background-color: rgba(255, 255, 255, 0.5); /* Hafif beyaz arka plan rengi */
+  border-radius: 15px; /* Köşeleri yuvarla */
+  box-shadow: 0 0 41px 11px rgba(0, 0, 0, 0.3); /* Gölge efekti */
+  backdrop-filter: blur(10px); /* Buzlu cam efekti */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Yumuşak beyaz kenar çizgisi */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Geçiş efektleri */
+}
+
+.film-card:hover {
+  transform: scale(1.05); /* Kartı hafif büyüt */
+  box-shadow: 0 0 41px 15px rgba(0, 0, 0, 0.5); /* Gölgeyi yoğunlaştırma */
+}
+
+.film-poster {
+  width: 100%; /* Afişin kartın genişliğine uyum sağlaması için */
+  border-radius: 10px; /* Afiş köşe yuvarlama */
+}
+ /* FOOTER */
+ footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  margin-left: 200px; /* Header genişliğine eşit olacak şekilde ayar */
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: calc(100% - 200px); /* Header genişliği çıkarılarak kalan alan */
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-left, .footer-center, .footer-right {
+  flex: 1;
+  text-align: center;
+  min-width: 200px;
+}
+
+.footer-center ul, .footer-right ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-center ul li, .footer-right ul li {
+  margin: 0 10px;
+}
+
+.footer-center a, .footer-right a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-center a:hover, .footer-right a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+ 
+  

@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\views\\home\\film.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\views\\home\\film.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\data\\cinecriticdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\data\\cinecriticdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\data\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\data\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\data\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\data\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\views\\home\\ana.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\views\\home\\ana.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\data\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\data\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|c:\\users\\excalibur\\source\\repos\\web tabanl\u0131 final\\web tabanl\u0131 final\\migrations\\20250105213529_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BE24D0-3F95-40B4-BD9E-24BED8252079}|Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final.csproj|solutionrelative:web tabanl\u0131 final\\migrations\\20250105213529_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yorum.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\Yorum.cs",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Data\\Yorum.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\Yorum.cs",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Data\\Yorum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:24:27.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Program.cs",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Program.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Program.cs",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:00:38.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\User.cs",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:28:36.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:16:07.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Film.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Views\\Home\\Film.cshtml",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Views\\Home\\Film.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Views\\Home\\Film.cshtml",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Views\\Home\\Film.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAiwJcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T13:04:26.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ana.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Views\\Home\\Ana.cshtml",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Views\\Home\\Ana.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Views\\Home\\Ana.cshtml",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Views\\Home\\Ana.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T13:01:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\Film.cs",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Data\\Film.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\Film.cs",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Data\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:55:27.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CineCriticDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\CineCriticDbContext.cs",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Data\\CineCriticDbContext.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\CineCriticDbContext.cs",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Data\\CineCriticDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:34:58.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Data\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Data\\LoginViewModel.cs",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Data\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:15:55.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\appsettings.json",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\appsettings.json",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\appsettings.json",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T14:08:02.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250105213529_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Migrations\\20250105213529_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Web Tabanl\u0131 Final\\Migrations\\20250105213529_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Web Tabanl\u0131 Final\\Web Tabanl\u0131 Final\\Migrations\\20250105213529_InitialCreate.cs",
+              "RelativeToolTip": "Web Tabanl\u0131 Final\\Migrations\\20250105213529_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:35:29.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

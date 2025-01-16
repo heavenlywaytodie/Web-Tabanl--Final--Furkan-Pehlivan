@@ -1,0 +1,104 @@
+﻿@model Web_Tabanlı_Final.Data.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-image: url('/images/CINECRITIC.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 100vh;
+            margin: 0;
+            font-family: "Poppins", sans-serif;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+        }
+
+        .giris-container {
+            display: flex;
+            flex-direction: column;
+            width: 300px;
+            height: 400px;
+            margin-left: 800px;
+            padding: 50px;
+            justify-content: center;
+            border-radius: 15px;
+            background-color: rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 41px 11px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .giris-form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 70px;
+        }
+
+        button {
+            margin-top: 35px;
+            border-radius: 8px;
+            width: 125px;
+            align-self: center;
+            background-color: black;
+            color: white;
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+
+        input {
+            font-size: 16px;
+            padding: 12px 24px;
+            border: 1px solid black;
+            border-radius: 25px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div class="giris-container">
+        <h2>Giriş Yap</h2>
+        <form class="giris-form" asp-controller="Login" asp-action="Login" method="post">
+            <label asp-for="KullanıcıAdı">Kullanıcı Adı</label>
+            <input asp-for="KullanıcıAdı" class="form-control" required>
+
+            <label asp-for="Sıfre">Parola</label>
+            <input asp-for="Sıfre" type="password" class="form-control" required>
+
+            <button type="submit">Giriş Yap</button>
+        </form>
+
+        @if (ViewBag.Message != null)
+        {
+            <div class="alert alert-danger">
+                <p>@ViewBag.Message</p>
+            </div>
+        }
+    </div>
+</body>
+</html>
+
+
