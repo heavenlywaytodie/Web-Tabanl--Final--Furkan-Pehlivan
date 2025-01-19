@@ -3,6 +3,9 @@
  Bu proje Web Tabanlı Programlama Dersi için Furkan Pehlivan (132130021) Tarafından Yapılmıştır. CINECRITIC isimli bir film blogu olarak tasarlanmıştır, Amacı kullaıcıların izlediği filmlere yorum yapabileceği 
  bir blogdur.
 
+ # Youtube Linki:
+ https://www.youtube.com/watch?v=HuES4TzF-5k
+
  # CineCritic 
 Kullanıcıların filmler hakkında yorum yapabildiği bir MVC tabanlı film blog sitesidir. Bu proje, ASP.NET Core MVC kullanılarak geliştirilmiştir ve temel olarak film veritabanı yönetimi, kullanıcı kimlik doğrulama ve yetkilendirme, yorum yapma ve yönetme gibi işlevleri içerir.
 
